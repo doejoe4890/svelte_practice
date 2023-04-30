@@ -2,6 +2,7 @@
     export let appName;
     export let appDescription;
     import { goto } from "$app/navigation";
+    
     const handleClick = () => {
       goto('/test_app')
     }
