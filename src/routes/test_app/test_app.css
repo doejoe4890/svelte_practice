@@ -1,0 +1,14 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.form-group > *,
+.btn-full {
+    width: 100%;
+}
+
+.form-control.btn-full {
+    border-radius: 3px;
+    background-color: thistle;
+}
