@@ -3,7 +3,7 @@
     export let appDescription;
     import { goto } from "$app/navigation";
     
-    const handleClick1 = () => {
+    const handleClick = () => {
       goto('/test_app')
     }
 </script>
