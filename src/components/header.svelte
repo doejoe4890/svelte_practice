@@ -7,7 +7,7 @@
             </div>
             <div class="hidden sm:ml-3 sm:block">
                 <div class="flex space-x-4">
-                    <a href="/test_app" class="text-black rounded-md px-3 py-2 text-sm font-medium" aria-current="page">test_app</a>
+                    <span class="text-black rounded-md px-3 py-2 text-sm font-medium" aria-current="page">COMPANY NAME</span>
                 </div>
             </div>
         </div>
